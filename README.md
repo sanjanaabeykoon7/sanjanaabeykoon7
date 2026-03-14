@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjana Abeykoon, an undergraduate at ICBT Campus, Computing and Software Engineering
-- I’m interested in Software and Web development, and currently working on improving my skills on both areas
+- I’m interested in Software Engineering and Web development, and currently working on improving my skills in both areas
 - Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/sanjana-abeykoon/) at anytime
 
 <div align="center">
