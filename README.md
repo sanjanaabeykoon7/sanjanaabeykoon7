@@ -19,9 +19,9 @@
   <h1>Languages and Tools</h1>
   <p>
     <a>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nestjs,dotnet,tailwind,html,css" /><br>
-      <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,cs,r,php,mongodb,mysql,postgresql,prisma,docker" /><br>
-      <img src="https://skillicons.dev/icons?i=vscode,git,postman" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,laravel,cs,dotnet,py,cpp,r" /><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,prisma,docker,appwrite,git,githubactions,figma,vscode,idea,postman" />
     </a>
   </p>
 </div>
